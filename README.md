@@ -12,7 +12,7 @@ To run the application, build the **MapApp.java** file form **/src/Application**
 
 ## Screens
 * Main window showing intersections of the path on the map
-![Main Screen](./screens/main screen.png)
+![Main Screen]("./screens/main screen.png")
 
 * Path found after clicking **Show Route** button with one of the searching algorithms selected.
 ![Show path](./screens/path found.png)
