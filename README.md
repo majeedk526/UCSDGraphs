@@ -1,16 +1,16 @@
 # UCSDGraphs
 Java project for Advanced Data Structure course by University of California, San Diego
 
-##Working with the code
+## Working with the code
 To run the application, build the **MapApp.java** file form **/src/Application** folder.
 
-##Features
+## Features
 * Fetch and save intersection data for any location on the map.
 * Load the fetched intersection file and visulaise the intersections present.
 * Select two intersetcion points and find path between them using **BFS/Dijkstra/A*** algorithm.
 * Visualize how the algortihm found the path.
 
-##Screens
+## Screens
 * Main window showing intersections of the path on the map
 ![Main Screen](./screens/main screen.png)
 
